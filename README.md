@@ -56,7 +56,7 @@ Now, open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.
 | POST   | `/toggle/<id>` | Toggle task status    |
 
 ## 🖼️ App Screenshot
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot](Screenshot.png)
 
 ## 📜 .gitignore File
 ```
